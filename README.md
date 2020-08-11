@@ -1,9 +1,5 @@
 ### Hi there , I'm Neil Kuan 👋  
 
-- 🔭 I’m currently working on CathayHoldings
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
----
 ### Connect with me:
 [<img align="left" alt="blog.neilkuan.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://blog.neilkuan.dev)
 [<img align="left" alt="neil_kuan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/neil_kuan)
@@ -12,20 +8,12 @@
 
 </br>
 
----
+   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+- 🔭 I’m currently working on CathayHoldings
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2020 Goals: Contribute more to Open Source projects
+
+</br>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guan840912 "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**guan840912/guan840912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
