@@ -1,6 +1,8 @@
 ### Hi there , I'm Neil Kuan 👋  
 
 - 🔭 I’m currently working on CathayHoldings
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2020 Goals: Contribute more to Open Source projects
 ---
 ### Connect with me:
 [<img align="left" alt="blog.neilkuan.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://blog.neilkuan.dev)
