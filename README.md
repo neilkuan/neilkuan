@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on CathayHoldings
 
----
 ### Connect with me:
 
 [<img align="left" alt="blog.neilkuan.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
