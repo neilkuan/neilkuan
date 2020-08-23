@@ -1,4 +1,4 @@
-### Hi there , I'm Neil Kuan 👋  
+## Hi 👋  I'm Neil Kuan !
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </br>
 
@@ -20,4 +20,17 @@
 
 </br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guan840912 "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br/>
+
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=guan840912&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=guan840912&hide=css,java,html&theme=tokyonight">
+</p>
+
+</details>
