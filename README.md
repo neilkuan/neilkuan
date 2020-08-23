@@ -1,6 +1,5 @@
 ## Hi 👋  I'm Neil Kuan !
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-</br>
 
 ### Connect with me:
 
@@ -17,7 +16,7 @@
 - 🔭 I’m currently working on CathayHoldings
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
-
+- 😊 Try to build something intersting !!!
 </br>
 
 <br>
