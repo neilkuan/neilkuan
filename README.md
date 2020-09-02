@@ -13,17 +13,17 @@
 </br>
 
 ---
-- 🔭 I’m currently working on CathayHoldings
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- 😊 Try to build something interesting !!!
+- 🔭  I’m currently working on CathayHoldings
+- 🌱  I’m currently learning everything 🤣
+- 🥅  2020 Goals: Contribute more to Open Source projects
+- 😊  Try to build something interesting !!!
 </br>
 
 <br>
 <br/>
 
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+ <summary> 😇  <b>My Github Stats</b>: </summary>
 
 <br>
 
