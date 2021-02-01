@@ -24,7 +24,7 @@ AWS Communtity Builder 2020 Fall
 <br>
 <br/>
 
-<details open>
+<details close>
  <summary> 😇  <b>My Github Stats</b>: </summary>
 
 <br>
