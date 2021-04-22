@@ -15,7 +15,7 @@ AWS Communtity Builder 2020 Fall
 </br>
 
 ---
-- 🔭  I’m currently working on CathayHoldings
+- 🔭  I’m currently working on Financial Holding Co.,Ltd.
 - 🌱  I’m currently learning everything 🤣
 - 🥅  2021 Goals: Contribute more to Open Source projects
 - 😊  Try to build something interesting !!!
