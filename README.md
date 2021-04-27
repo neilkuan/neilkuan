@@ -31,7 +31,7 @@ AWS Communtity Builder 2020 Fall
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=guan840912&show_icons=true&theme=nord&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=guan840912&hide=css,java,html,jupyter%20notebook&theme=nord">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=guan840912&hide=html,css,jupyter%20notebook&theme=nord&langs_count=3">
 </p>
 
 </details>
