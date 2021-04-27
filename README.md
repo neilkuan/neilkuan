@@ -7,7 +7,7 @@ AWS Communtity Builder 2020 Fall
 
 </br>
 
-[<img align="left" alt="blog.neilkuan.dev" width="22px" src="https://github.com/guan840912/guan840912.github.io/raw/master/android-icon-36x36.png" />](https://blog.neilkuan.dev)
+[<img align="left" alt="blog.neilkuan.dev" width="22px" src="https://github.com/neilkuan/neilkuan.github.io/raw/master/android-icon-36x36.png" />](https://blog.neilkuan.dev)
 [<img align="left" alt="neil_kuan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/neil_kuan)
 [<img align="left" alt="neil-kuan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/neil-kuan-792bb218a/)
 [<img align="left" alt="neil.kuan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/neil.kuan/)
@@ -30,8 +30,8 @@ AWS Communtity Builder 2020 Fall
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=guan840912&show_icons=true&theme=nord&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=guan840912&hide=html,css,jupyter%20notebook&theme=nord&langs_count=3">
+  <img src = "https://github-readme-stats.vercel.app/api?username=neilkuan&show_icons=true&theme=nord&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=neilkuan&hide=html,css,jupyter%20notebook&theme=nord&langs_count=3">
 </p>
 
 </details>
