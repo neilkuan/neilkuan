@@ -1,5 +1,21 @@
-Hi 👋  I'm Neil Kuan !！!
-- 🧚‍♂️ AWS Communtity Builder (2020 - now)
-- 💡 CDK Communtity (TW) Speaker
+<div align="center"> 
+
+ Hi 👋  I'm Neil Kuan !！!
+
+ 🧚‍♂️ AWS Communtity Builder (2020 - now) 
+
+ 💡 CDK Communtity (TW) Speaker
  
+[linkedin]: https://img.shields.io/static/v1?label=&message=LinkedIn&&color=3B3B7A&logo=linkedin
+[blog]: https://img.shields.io/static/v1?label=&message=Blog&color=3B3B7A&logo=microdotblog
+[telegram]: https://img.shields.io/static/v1?label=&message=Telegram&&color=3B3B7A&logo=telegram
+[twitter]: https://img.shields.io/static/v1?label=&message=Twitter&&color=3B3B7A&logo=twitter
+
+[![linkedin]](https://www.linkedin.com/in/neilkuan/)
+[![blog]](https://blog.neilkuan.net/post)
+[![telegram]](https://t.me/neilkuan/)
+[![twitter]](https://twitter.com/neil_kuan)
+
+
 <img src = "https://github-readme-stats.vercel.app/api?username=neilkuan&show_icons=true&theme=nord&line_height=27">
+</div>
