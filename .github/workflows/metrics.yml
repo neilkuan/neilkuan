@@ -29,7 +29,6 @@ jobs:
           config_timezone: Asia/Taipei
           base: ""
           plugin_stargazers: yes
-          output_action: none
           delay: 120
           plugins_errors_fatal: yes
           plugin_isocalendar: yes
