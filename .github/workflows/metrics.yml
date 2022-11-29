@@ -26,8 +26,11 @@ jobs:
 
           # Options
           user: neilkuan
-          template: classic
-          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Taipei
-          plugin_stars: yes
-          plugin_stars_limit: 3
+          base: ""
+          plugin_stargazers: yes
+          output_action: none
+          delay: 120
+          plugins_errors_fatal: yes
+          plugin_isocalendar: yes
+
