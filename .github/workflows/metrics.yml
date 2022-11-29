@@ -29,3 +29,5 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Taipei
+          plugin_stars: yes
+          plugin_stars_limit: 3
