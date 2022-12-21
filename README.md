@@ -14,6 +14,4 @@
 [![blog]](https://blog.neilkuan.net/post)
 [![twitter]](https://twitter.com/neil_kuan)
 
-
-<img src = "github-metrics.svg">
-</div>
+<img src="https://raw.githubusercontent.com/neilkuan/neilkuan/master/profile-3d-contrib/profile-night-green.svg">
