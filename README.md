@@ -11,7 +11,7 @@
 [twitter]: https://img.shields.io/static/v1?label=&message=Twitter&&color=3B3B7A&logo=twitter
 
 [![linkedin]](https://www.linkedin.com/in/neilkuan/)
-[![blog]](https://blog.neilkuan.net/)
+[![blog]](https://blog.neilkuan.click/en/)
 [![twitter]](https://twitter.com/neil_kuan)
 
 <img src="https://raw.githubusercontent.com/neilkuan/neilkuan/master/profile-3d-contrib/profile-night-green.svg">
