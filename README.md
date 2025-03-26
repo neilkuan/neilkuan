@@ -4,8 +4,6 @@
 
  🧚‍♂️ AWS Communtity Builder (2020 - now) 
 
- 💡 CDK Communtity (TW) Speaker
- 
 [linkedin]: https://img.shields.io/static/v1?label=&message=LinkedIn&&color=3B3B7A&logo=linkedin
 [blog]: https://img.shields.io/static/v1?label=&message=Blog&color=3B3B7A&logo=microdotblog
 [twitter]: https://img.shields.io/static/v1?label=&message=Twitter&&color=3B3B7A&logo=twitter
