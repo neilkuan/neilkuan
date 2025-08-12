@@ -12,4 +12,8 @@
 [![blog]](https://blog.neilkuan.click/en/)
 [![twitter]](https://twitter.com/neil_kuan)
 
-<img src="https://raw.githubusercontent.com/neilkuan/neilkuan/master/profile-3d-contrib/profile-night-green.svg">
+<img src="https://raw.githubusercontent.com/neilkuan/neilkuan/master/profile-summary-card-output/discord_old_blurple/0-profile-details.svg">
+<img src="https://raw.githubusercontent.com/neilkuan/neilkuan/master/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg">
+<img src="https://raw.githubusercontent.com/neilkuan/neilkuan/master/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg">
+<img src="https://raw.githubusercontent.com/neilkuan/neilkuan/master/profile-summary-card-output/discord_old_blurple/3-stats.svg">
+<img src="https://raw.githubusercontent.com/neilkuan/neilkuan/master/profile-summary-card-output/discord_old_blurple/4-productive-time.svg">
