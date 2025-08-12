@@ -33,7 +33,32 @@
 #           plugins_errors_fatal: yes
 #           plugin_isocalendar: yes
 
-name: GitHub-Profile-3D-Contrib
+# name: GitHub-Profile-3D-Contrib
+
+# on:
+#   schedule: # 03:00 JST == 18:00 UTC
+#     - cron: "0 18 * * *"
+#   workflow_dispatch:
+
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     name: generate-github-profile-3d-contrib
+#     steps:
+#       - uses: actions/checkout@v4
+#       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#           USERNAME: ${{ github.repository_owner }}
+#       - name: Commit & Push
+#         run: |
+#           git config user.name github-actions
+#           git config user.email github-actions@github.com
+#           git add -A .
+#           git commit -m "generated"
+#           git push
+
+name: GitHub-Profile-Summary-Cards
 
 on:
   schedule: # 03:00 JST == 18:00 UTC
@@ -43,18 +68,22 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
-
+          # BRANCH_NAME is optional, default to main, branch name to push cards
+          BRANCH_NAME: "main"
+          # UTC_OFFSET is optional, default to zero
+          UTC_OFFSET: 8
+          # EXCLUDE is an optional comma seperated list of languages to exclude, defaults to ""
+          EXCLUDE: ""
+          # AUTO_PUSH is optional, a boolean variable default to true, whether automatically push generated files to desired branch
+          AUTO_PUSH: true
